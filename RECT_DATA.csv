@@ -1,0 +1,52 @@
+﻿Number,Title,Author,Publication Title,Technology,Frequency [GHz],RL [ohm],Pin@PCEmax [dBm],PCEmax [%],Pout@PCEmax [mW],PCE@6dBm Pin [dBm]
+1,High-Efficiency Millimeter-Wave CMOS Switching Rectifiers: Theory and Implementation,Pingyang He,IEEE Transactions on Microwave Theory and Techniques,65nm CMOS,35,50,15,36,11.55,22 (5dBm)
+2,High-Efficiency Millimeter-Wave CMOS Switching Rectifiers: Theory and Implementation,Pingyang He,IEEE Transactions on Microwave Theory and Techniques,65nm CMOS,91,43,16,27,9.5,7.8 (5dBm)
+3,High-Efficiency Millimeter-Wave CMOS Switching Rectifiers: Theory and Implementation,Pingyang He,IEEE Transactions on Microwave Theory and Techniques,65nm CMOS,94,43,16,24,9.5,7.8 (5dBm)
+4,High-Efficiency Dual-Band On-Chip Rectenna for 35- and 94-GHz Wireless Power Transmission in 0.13-μm CMOS Technology,Hwann-Kaeo Chiou,IEEE Transactions on Microwave Theory and Techniques,CMOS Integrated Schottky Diode,35,100,,53,1.44,
+5,High-Efficiency Dual-Band On-Chip Rectenna for 35- and 94-GHz Wireless Power Transmission in 0.13-μm CMOS Technology,Hwann-Kaeo Chiou,IEEE Transactions on Microwave Theory and Techniques,CMOS Integrated Schottky Diode,94,100,,37,0.84,
+6,Millimeter-Wave Energy Harvesting Using 4×4 Microstrip Patch Antenna Array,Ali Mavaddat,IEEE Antennas and Wireless Propagation Letters,GaAs Schottky Diode,35.7,1000,8.5,67,4.75,42
+7,35 GHz harmonic harvesting rectifier for wireless power Transmission,Shabnam Ladan,IEEE MTT-S International Microwave Symposium,GaAs Schottky Diode,35,,13,34,8,15
+8,Microstrip antenna and rectifier for wireless power transfar at 94GHz,Kosumo Matsu,IEEE Wireless Power Transfer Conference,MEMS,38,125,20.2,38,39,
+9,Small-footprint wideband 94GHz rectifier for swarm micro-robotics,Simon Hemour,IEEE MTT-S International Microwave Symposium,GaAs Schottky Diode,94,300,3,32.3,0.65,
+10,Design and experiment of a rectenna array base on GaAs transistor for microwave power transmission,Jian Ye,International Conference on Microwave and Millimeter Wave Technology Proceedings,GaAs Schottky Diode,2.33,50,30,64,630,
+11,A high-efficiency dual-frequency rectenna for 2.45- and 5.8-GHz wireless power transmission,Young-Ho Suh,IEEE Transactions on Microwave Theory and Techniques,GaAs Schottky Diode,2.45,310,17,84.4,,
+12,A high-efficiency dual-frequency rectenna for 2.45- and 5.8-GHz wireless power transmission,Young-Ho Suh,IEEE Transactions on Microwave Theory and Techniques,GaAs Schottky Diode,5.8,310,17,82.7,,40
+13,Prototype of 5.8 GHz-band high efficiency rectifier with a high breakdown voltage GaAs SBD,Marika Nakamura,"In Proceeding of the Institute of Electronics, Information and Communication engineers",GaAs SBD,5.8,,,80,,
+14,X-band circularly polarized rectennas for microwave power transmission applications,Xuexia Yang,J. Electron,,10,200,,75,,
+15,Development of improved 24GHz-band class-F load rectennas,Ken Hatano,"In Proceedings of the 2012 IEEE MTT-S International Microwave Workshop Series 
+on Innovative Wireless Power Transmission: Technologies, Systems, and Applications",Diode,24,300,,65.5,,
+16,High-Efficiency Millimeter-Wave Energy-Harvesting Systems With Milliwatt-Level Output Power,Med Nariman,IEEE Transactions on Circuits and Systems II: Express Briefs,40nm CMOS,60,557,5.7,32.8,1.22,32.8
+17,A 71GHz RF energy harvesting tag with 8% efficiency for wireless temperature sensors in 65nm CMOS,Hao Gao,IEEE Symposium on Radio Frequency Integrated Circuits,65nm CMOS,71,,,8,,
+18,W-Band CMOS on-chip energy harvester and rectenna,Nir Weissman,IEEE MTT-S International Microwave Symposium,65nm CMOS,94,5000,4.5,10,,
+19,Development of MMIC rectenna at 24GHz,Ken Hatano,IEEE Radio and Wireless Symposium,MMIC,24,120,23,47.9,,
+20,Consideration of Long Distance WPT using 28 GHz Gyrotron,Masatoshi Suzuki,Space Solar Power Systems,GaAs Schottky Diode,28,,,47.7,140.8,
+21,Subterahertz Wireless Power Transmission Using 303-GHz Rectenna and 300-kW-Class Gyrotron,Sei Mizojiri,IEEE Microwave and Wireless Components Letters,GaAs Schottky Diode,303,130,25,2.17,,
+22,High-Efficiency Wideband Rectifier for Single-Chip Batteryless Active Millimeter-Wave Identification (MMID) Tag in 65-nm Bulk CMOS Technology,Pascal Burasa,IEEE Transactions on Microwave Theory and Techniques,65nm CMOS,24,1000,6.41,20,0.874,
+23,High-Efficiency Wideband Rectifier for Single-Chip Batteryless Active Millimeter-Wave Identification (MMID) Tag in 65-nm Bulk CMOS Technology,Pascal Burasa,IEEE Transactions on Microwave Theory and Techniques,65nm CMOS,35,1000,6.66,18,0.834,
+24,High-Efficiency Wideband Rectifier for Single-Chip Batteryless Active Millimeter-Wave Identification (MMID) Tag in 65-nm Bulk CMOS Technology,Pascal Burasa,IEEE Transactions on Microwave Theory and Techniques,65nm CMOS,60,2000,3,11,0.222,
+25,A W-Band 2 × 2 Rectenna Array With On-Chip CMOS Switching Rectifier and On-PCB Tapered Slot Antenna for Wireless Power Transfer,Pingyang He,IEEE Transactions on Microwave Theory and Techniques,40nm CMOS,94,45,10,45.8,,
+26,61.5% Efficiency and 3.6 kW/m2 Power Handling Rectenna Circuit Demonstration for Radiative Millimeter Wave Wireless Power Transmission,Hooman Kazemi,IEEE Transactions on Microwave Theory and Techniques,GaN Nano-Schottky Diode,95,240,,61.5,5.7,
+27,,,,,,,,,,
+28,,,,,,,,,,
+29,,,,,,,,,,
+30,,,,,,,,,,
+31,,,,,,,,,,
+32,,,,,,,,,,
+33,,,,,,,,,,
+34,,,,,,,,,,
+35,,,,,,,,,,
+36,,,,,,,,,,
+37,,,,,,,,,,
+38,,,,,,,,,,
+39,,,,,,,,,,
+40,,,,,,,,,,
+41,,,,,,,,,,
+42,,,,,,,,,,
+43,,,,,,,,,,
+44,,,,,,,,,,
+45,,,,,,,,,,
+46,,,,,,,,,,
+47,,,,,,,,,,
+48,,,,,,,,,,
+49,,,,,,,,,,
+50,,,,,,,,,,
